@@ -1,8 +1,6 @@
-//  PROGRAM FILE NAME: Project 4.cpp        ASSIGNMENT #: 4
+//  PROGRAM FILE NAME: Project 4.cpp        ASSIGNMENT #: 3
 //
 //  PROGRAM AUTHOR: Jacob Campbell
-//                  Dominique Dobbs
-//                  Andrei Ciot
 //
 //  COURSE: CSC 24400     SEMESTER: FALL 2018     PROFESSOR: Dr. Miller
 //
